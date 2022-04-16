@@ -4,6 +4,10 @@
   I am a Final year student studying Computer Science at Carleton University with concentration in Software Engineering.
 </div>
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=asifur99&style=flat-square)
+
 ## Social Media
 
 <div>
