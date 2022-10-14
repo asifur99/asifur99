@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  I am a Final year student studying Computer Science at Carleton University with concentration in Software Engineering.
+  I am a Computer Science Graduate at Carleton University with concentration in Software Engineering.
 </div>
 
 <br>
